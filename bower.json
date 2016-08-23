@@ -1,0 +1,24 @@
+{
+  "name": "PanteraLX/gleiser",
+  "authors": [
+    "Samuel Heinzmann"
+  ],
+  "description": "Gleiser app",
+  "main": "",
+  "moduleType": [],
+  "license": "GLP",
+  "homepage": "https://github.com/PanteraLX/gleiser",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.7",
+    "datatables.net": "~1.10.12",
+    "datatables.net-bs": "~1.10.12"
+  }
+}
